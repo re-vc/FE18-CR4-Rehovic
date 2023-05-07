@@ -2,7 +2,7 @@
 $hostName = "localhost";
 $userName = "root";
 $password = "";
-$dbName = "BE18_CR4_Rehovic_BigLibrary"; //replace with database name
+$dbName = "be18_cr5_animal_adoption_rehovic"; //replace with database name
 $connect = mysqli_connect($hostName, $userName, $password, $dbName);
 
 // Check connection
